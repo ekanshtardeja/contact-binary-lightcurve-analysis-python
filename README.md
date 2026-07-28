@@ -1,4 +1,4 @@
-# Binary Star Analysis Tools
+# Contact Binary Lightcurve Analysis Tools
 
 A collection of reusable Python tools for the analysis of eclipsing and contact binary star systems.
 This repository contains scripts developed during my research and learning in observational astrophysics. The tools are designed to automate common tasks in binary star light curve analysis.
