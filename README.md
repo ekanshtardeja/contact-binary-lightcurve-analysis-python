@@ -1,1 +1,0 @@
-# contact-binary-lightcurve-analysis-python
