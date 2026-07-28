@@ -1,0 +1,7 @@
+- Python 3.10+
+- NumPy
+- Pandas
+- Matplotlib
+- SciPy
+- Astropy
+- PHOEBE 2.x
